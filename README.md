@@ -16,3 +16,13 @@
 5. Mongoose
 6. Cloudinary API
 7. multer
+
+## Functionalities:
+1. User Registration and Login
+2. Google OAuth API (not yet done)
+3. User CRUD Profile
+4. User CRUD Posts
+5. User notification and inbox.
+
+## Notes:
+1. Work is still in progress.
